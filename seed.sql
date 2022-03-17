@@ -3186,7 +3186,7 @@ VALUES
   ('4a_tqjo5', '✈️ LKPR Tower', 'http://radio.garden/api/ara/content/listen/4a_tqjo5/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
   ('867PEBHH', 'Oldies Radio', 'http://radio.garden/api/ara/content/listen/867PEBHH/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
   ('khYGHC0Y', 'Radio 1 FM 91.9', 'http://radio.garden/api/ara/content/listen/khYGHC0Y/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
-  ('Jdzbo9Tr', 'Radio23.cz - D''n'B', 'http://radio.garden/api/ara/content/listen/Jdzbo9Tr/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
+  ('Jdzbo9Tr', 'Radio23.cz - D''n''B', 'http://radio.garden/api/ara/content/listen/Jdzbo9Tr/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
   ('H1dZtdvK', 'Radio23.cz - Hardcore', 'http://radio.garden/api/ara/content/listen/H1dZtdvK/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
   ('NlaVL1mX', 'Radio23.cz - Psytrance', 'http://radio.garden/api/ara/content/listen/NlaVL1mX/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
   ('J_KslSxr', 'Radio23.cz - Tekno', 'http://radio.garden/api/ara/content/listen/J_KslSxr/channel.mp3', 'dpbivRM8', 'Prague', 'Czechia', 14.4378, 50.07554),
