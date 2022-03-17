@@ -9,5 +9,5 @@ const axios = require('axios');
 //   });
 axios.get('http://radio.garden/api/ara/content/places')
   .then(response => {
-    console.log(response.data.data.list[0]);
+    console.log(response.data.data.list);
   });
